@@ -8,10 +8,11 @@ http\https Would Read Viz:
 ץטטפס
 Line Seven Would Be Decrypted As http, Line Eight Would Be Decrypted As https
 This Is Client End Renderering
-This Current Table Is ExAMPLE!
+This Current Table* Is ExAMPLE!
 Currently Viz. http://ישראל.com
 would Interpret In Tungsten ™ ץטטפ://ישראל.קום
 ץטטפס://ישראל.קום
+*יכול להיות כל רצף-מקלדת עברית מיוחדה המציין שפת סימון היפר-טקסט
 <br>הפיכת דפדפן אינטרנטי בעברית לסימבולית כל עברית</br>
 שלה רק כוונה של דפדפן טונגסטן כדי לספק חוויה קוהרנטית יותר עבור ניווט
 בסביבה טבעית
